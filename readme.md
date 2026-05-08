@@ -9,6 +9,7 @@ Smart contracts: implement NFT functionality and Merkle functionality.
 
 ## Data Flow Diagram
 ![](./img/img1.png)
+![](./img/img2.png)
 
 # v2
 Discuss after completing v1, e.g. integration with shopping apps like Taobao, recommending more eco-friendly products based on user input, product NFT trading, etc.
